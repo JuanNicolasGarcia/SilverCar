@@ -1,0 +1,32 @@
+.pageHeader__root {
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgrey;
+    padding: 2rem;
+}
+
+.pageHeader__linkContent {
+    display: flex;
+}
+
+.pageHeader__links {
+    display: flex;
+}
+
+.pageHeader__link {
+    margin-left: 1rem;
+    margin-right: 2rem;
+}
+
+.pageHeader__logSign {
+    display: flex;
+    margin-left: 2rem;
+    font-size: x-large;
+}
+
+.pageHeader__logSignSpacer {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+

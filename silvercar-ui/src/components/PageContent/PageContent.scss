@@ -1,0 +1,17 @@
+.pageContent__root {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    overflow-y: auto;
+}
+
+.pageContent__searchBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 4rem 2rem 4rem;
+}
+
+.pageContent__loading {
+    padding: 4rem;
+    display: flex;
+    justify-content: center;
+}
